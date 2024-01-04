@@ -1,0 +1,20 @@
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\CalculatorPOS\CalculatorPOS\bin\Debug\CalculatorPOS.exe
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\CalculatorPOS\CalculatorPOS\bin\Debug\CalculatorPOS.pdb
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.Properties.Resources.resources
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.csproj.GenerateResource.Cache
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.exe
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.pdb
+c:\users\gokul krishna n\documents\visual studio 2012\Projects\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.exe.licenses
+C:\Users\Gokul Krishna N\Documents\Visual Studio 2012\Projects\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.FrmCalculatorPOS.resources
+C:\Users\Gokul Krishna N\Documents\Visual Studio 2012\Projects\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.csprojResolveAssemblyReference.cache
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.exe
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.pdb
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\bin\Debug\CalculatorPOS.exe
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\bin\Debug\CalculatorPOS.pdb
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.csprojResolveAssemblyReference.cache
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.FrmCalculatorPOS.resources
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.Properties.Resources.resources
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.csproj.GenerateResource.Cache
+\\ftpserver\FTPshare\Home\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.exe.licenses
+D:\GOKUL\FTP\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.exe
+D:\GOKUL\FTP\Gokul\CalculatorPOS\CalculatorPOS\obj\Debug\CalculatorPOS.pdb
